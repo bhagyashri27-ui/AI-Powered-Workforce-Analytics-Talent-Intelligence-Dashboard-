@@ -5,9 +5,9 @@ This project focuses on developing an AI-Powered Workforce Analytics & Talent In
 
 
 # Outcomes:
-Comprehensive visibility into workforce performance, demographics, and organizational trends.
-Predictive analytics to identify attrition risks and recommend proactive retention strategies.
-Actionable insights into employee skills, learning progress, and career development.
+- Comprehensive visibility into workforce performance, demographics, and organizational trends.
+-Predictive analytics to identify attrition risks and recommend proactive retention strategies.
+- Actionable insights into employee skills, learning progress, and career development.
 Monitoring of diversity, equity, and inclusion metrics across the organization.
 Intelligent, AI-powered recommendations for workforce planning and engagement.
 Natural language interaction for rapid, data-driven workforce intelligence.
